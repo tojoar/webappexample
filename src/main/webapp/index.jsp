@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>JENKINS DEPLOYMENT PHASE</h2>
+<h2>Deployment conflict resolution</h2>
 </body>
 </html>
