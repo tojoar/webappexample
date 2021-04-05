@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>dev commit</h2>
+<h2>Web Deployment sample verification</h2>
 </body>
 </html>
