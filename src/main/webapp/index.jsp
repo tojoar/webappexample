@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Web Deployment poll verification</h2>
+<h2>sample verification</h2>
 </body>
 </html>
