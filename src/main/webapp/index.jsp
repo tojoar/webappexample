@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Test deployment </h2>
+<h2>Test deployment sample</h2>
 </body>
 </html>
